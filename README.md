@@ -89,7 +89,7 @@ O fluxo da demonstração foi:
 
 ## Resultados da Análise
 
-A análise apontou **98 issues no total** no projeto. Abaixo estão destacadas algumas das mais relevantes, classificadas pelo SonarQube por severidade:
+A análise apontou **206 issues no total** no projeto. Abaixo estão destacadas algumas:
 
 ### 🔴 Críticos (Bugs — Alta prioridade)
 
