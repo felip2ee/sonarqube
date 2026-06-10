@@ -76,13 +76,14 @@ Com o projeto local criado, o SonarQube gerou um **token** e forneceu os comando
 
 ## Exemplo de Demonstração Funcional
 
-Para a demonstração, foi analisado um projeto real: um **site de casamento** desenvolvido para amigos. O projeto está versionado no Git e foi rodado localmente para gerar a análise.
+Para a demonstração, foi analisado um projeto real: um **site de casamento** desenvolvido para amigos. O projeto está versionado no Git, referenciado no final do README.md e foi rodado localmente para gerar a análise.
 
 O fluxo da demonstração foi:
 
 1. Criar o projeto local no SonarQube.
 2. Rodar o scanner na pasta do projeto.
 3. Visualizar o relatório gerado no dashboard.
+<img width="915" height="275" alt="image" src="https://github.com/user-attachments/assets/2541d36e-4ddc-41f8-829a-5bc7e8e4f02e" />
 
 ---
 
