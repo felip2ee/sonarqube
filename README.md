@@ -143,7 +143,6 @@ Problemas de acessibilidade em `ref/index.html`:
 ## Dificuldades Encontradas
 
 - Os ajustes iniciais na VPS (`sysctl`) não eram intuitivos para quem não conhece os requisitos internos do SonarQube (Elasticsearch).
-- A maior dificuldade foi **interpretar as issues apontadas pela ferramenta**. O SonarQube lista os problemas com termos técnicos e referências de severidade, mas entender o que cada erro significa na prática, por que ele é considerado um problema e qual a forma correta de corrigi-lo exigiu pesquisa adicional fora da ferramenta.
 - Vale destacar que **o SonarQube não corrige os problemas automaticamente**: ele identifica, explica e orienta a correção, mas as mudanças precisam ser aplicadas manualmente pelo desenvolvedor. Isso aumentou o esforço de interpretação, já que cada uma das 206 issues teve que ser analisada e resolvida à mão. Vale ressaltar, porém, que existem recursos mais recentes com **IA** (como o *AI CodeFix* e o *quick fix* do [SonarQube for IDE](https://www.sonarsource.com/products/sonarlint/), antigo SonarLint, integrado a IDEs) que geram uma sugestão de correção aplicável com um clique — ainda assim de forma assistida, com revisão do desenvolvedor.
 
 ---
