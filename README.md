@@ -161,3 +161,4 @@ Recomendamos o uso dessa ferramenta para projetos que necessitam de controle da 
 - [Documentação oficial do SonarQube](https://docs.sonarsource.com/)
 - [Material gerado durante a etapa de instalação e teste](https://docs.google.com/document/d/1jYVZp5P_iUYeAyYRR0fektgPBpPiy1pgzHA44iZoaXw/edit?usp=sharing)
 - [Projeto analisado na demonstração](https://github.com/felip2ee/lannywerbeth-site-noivos)
+- [Apresentação no Canva](https://canva.link/bzv1ix8523aklol)
